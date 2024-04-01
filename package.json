@@ -1,0 +1,11 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build ux221Assignent4",
+		"build:cloudflare": "diy-pwa build",
+		"preview": "diy-pwa preview ux221Assignent4"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
